@@ -1,0 +1,7 @@
+.sidebar {
+  flex: 0 0 20%;
+  background-color: #ffffff;
+  height: 1000px;
+  margin: 7px;
+  box-shadow: 1px 1px 1px #ffffff;
+}

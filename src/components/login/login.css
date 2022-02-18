@@ -1,0 +1,13 @@
+.login-container {
+  height: 70%;
+  position: relative;
+}
+.login-container button {
+  height: 100%;
+  width: 80px;
+  background-color: #ffffff;
+  border: none;
+  font-size: 85%;
+  font-weight: bold;
+  color: rgb(50, 120, 250);
+}

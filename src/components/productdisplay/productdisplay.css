@@ -1,0 +1,48 @@
+.product-container {
+  display: flex;
+  width: 100%;
+  border-top: 1px solid #dbdbdb;
+}
+
+/* .product-image {
+  background-image: url("https://rukminim1.flixcart.com/image/312/312/kehfi4w0/mobile/g/9/h/mi-redmi-9-lpddr4x-original-imafv5kypkgfqupf.jpeg?q=70");
+  background-size: 40%;
+  background-position: center;
+  flex: 0 0 25%;
+  height: 300px;
+  background-repeat: no-repeat;
+} */
+.product-details {
+  display: flex;
+  flex-basis: 100%;
+  margin-top: 20px;
+}
+.product-info {
+  flex: 0 0 60%;
+}
+.product-price {
+  flex-basis: 100%;
+  display: flex;
+}
+.product-info p {
+  margin: 2px;
+  font-family: poppins;
+  font-weight: normal;
+}
+.product-info > ul > li > p {
+  font-size: 14px;
+}
+.product-info > ul {
+  margin: 20px;
+  padding: 0;
+}
+
+.prod-detail-header {
+  font-size: 18px;
+}
+.prod-price {
+  margin: 10px;
+  position: relative;
+  left: 20%;
+  font-size: 25px;
+}
